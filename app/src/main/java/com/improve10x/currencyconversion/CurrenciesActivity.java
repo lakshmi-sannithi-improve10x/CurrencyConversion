@@ -13,5 +13,6 @@ public class CurrenciesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityCurrenciesBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
     }
 }
